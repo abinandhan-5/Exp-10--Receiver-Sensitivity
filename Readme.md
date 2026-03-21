@@ -73,7 +73,7 @@ Your report should include:
 
 ---
 ## Tabulation
-![10](https://github.com/user-attachments/assets/1df1e55d-7e34-4eea-865f-cccb947bf6ce)
+![10](https://github.com/user-attachments/assets/bb952542-426d-4630-993b-4c1e98cf159d)
 
 
 ## Graph
