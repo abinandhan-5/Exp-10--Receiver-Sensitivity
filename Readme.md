@@ -1,5 +1,5 @@
 
-# Receiver-Sensitivity
+# EXP-10: Receiver-Sensitivity
 # Optical Receiver Sensitivity Analysis
 
 ## AIM
@@ -72,3 +72,17 @@ Your report should include:
 - Discussion of differences between analytical and simulation results.  
 
 ---
+## Tabulation
+![WhatsApp Image 2026-03-22 at 9 12 21 PM (3)](https://github.com/user-attachments/assets/663fb152-fbc9-455d-89a0-36d662f069d7)
+
+
+
+## Graph
+<img width="1286" height="722" alt="Screenshot 2026-03-18 103702" src="https://github.com/user-attachments/assets/a1677782-0e3b-4cf7-b482-9ae89087b125" />
+
+## Result
+The sensitivity of a PIN photodiode-based optical receiver is determined by calculating the minimum received power necessary to achieve a given Q factor and also simulated result is compared with obtained analytically.
+
+
+
+
