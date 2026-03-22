@@ -73,7 +73,9 @@ Your report should include:
 
 ---
 ## Tabulation
-![10](https://github.com/user-attachments/assets/bb952542-426d-4630-993b-4c1e98cf159d)
+![WhatsApp Image 2026-03-22 at 9 12 21 PM (3)](https://github.com/user-attachments/assets/2cf66747-1216-4fb8-8794-35ae33c0e951)
+
+
 
 
 ## Graph
